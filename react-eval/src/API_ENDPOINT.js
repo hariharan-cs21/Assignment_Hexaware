@@ -1,0 +1,1 @@
+export const API_ENDPOINT = "https://gorest.co.in/public/v2"
